@@ -1,0 +1,76 @@
+
+  #
+  # "Tesla Castle" [tesla.bsp]
+  #
+  # a 4v4 Teamdeathmatch (tdm) & FFA map
+  #
+  # by Q - May.25.2021
+  #
+
+  A map based AROUND Zaka's Schloss
+
+  ------
+  files:
+  ------
+  > tesla.txt             : ... this file
+
+  > tesla.bsp             : map
+  > tesla.lit             : (subtle) coloured lighting
+  > tesla.loc             : locations [ (version: May.25.2021) ]
+  > /textures/levelshots/ : tesla.jpg
+  > /textures/tesla/      : 24 bit textures [TGA's & JPG's]
+
+
+  # NOTE
+  # The .bsp file has lower quality (8bit) textures 'baked-in' the .bsp file itself.
+  # If you don't have the higher quality (24 bit) texture files installed, you will see the lower quality textures.
+
+
+  ----------
+  src files:
+  ----------
+  > tesla.map       : map source
+  > tesla.wad       : 8bit texture.wad [to be used with the .map source file(s)]
+
+  ---------------------------------
+  map compile tools used (windows):
+  ---------------------------------
+  > BSP   : tyrericw qbsp.exe
+  > VIS   : tyrericw vis.exe
+  > LIGHT : tyrericw light.exe
+
+  ---------------------------------
+  editor used
+  ---------------------------------
+  > netRadiant
+
+
+
+  =================================
+
+  Weapons, ammo, items, etc ...
+
+  =================================
+
+  > Spawnpoints : 8
+
+  > Powerups    : 1 'Quad' / 1 'Pent' / 1 'Ring'
+
+  > Armors      : 1 'RA' / 3 'YA'
+
+  > Weapons     : 1 'LG' / 2 'RL' / 1 'GL' / 1 'SNG' / 2 'SSG'
+
+  > Health      : 2 'Mega' / 8 '25h' / 6 '10h'
+
+  > Ammo        : Rockets : 2x 5-pack, 2x 10-pack
+                : Cells   : 2x 6-pack, 1x 12-pack
+                : Shells  : 4x 20-pack, 1x 40-pack
+                : Nails   : 6x 25 pack, 2x 50-pack 
+
+
+  =================================
+  This map (tesla.map & tesla.bsp);
+  and its textures;
+  are Public Domain
+  =================================
+
