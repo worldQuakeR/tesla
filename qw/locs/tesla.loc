@@ -1,0 +1,142 @@
+3290 -993 1600 GL$loc_name_separatorStorage
+5075 -988 1472 GL$loc_name_separatorStorage
+2957  578 2112 GL$loc_name_separatorStorage
+2934 1542 1984 Yard
+ 818 3194 1984 Yard$loc_name_separatorMEGA
+2833 7191 1984 Yard$loc_name_separator$loc_name_pent
+ 224 5125 1984 Yard$loc_name_separatorSSG
+3047 4490 1984 Yard
+6137 -910 1472 Graveyard
+11136 -192 1472 Graveyard
+10745 4198 1472 Graveyard$loc_name_separatorMEGA
+10594 3136 2752 Graveyard$loc_name_separator$loc_name_ring
+9958 5955 1472 Graveyard
+11011 3176 1568 Graveyard$loc_name_separatorCrypt
+12359 3181  832 Lava-Path$loc_name_separatorSNG
+11904 -666  704 Lava-Path
+10105 -3964  704 Catacomb$loc_name_separatorSSG
+11311 -2499  704 Lava-Path
+11904  332  704 Lava-Path$loc_name_separatorSNG
+11136 2166 1984 Graveyard
+8815 -1866 1472 Graveyard
+5649 -1997 1472 Graveyard
+8017 -8675  704 Catacomb$loc_name_separatorCELLS-platform
+8087 -7296  704 Catacomb$loc_name_separatorSSG
+6517 -6336  704 Catacomb$loc_name_separatorLIFT
+5729 -6566  704 Catacomb$loc_name_separatorLIFT
+1150 -4968  576 Catacomb$loc_name_separatorRL
+3827 -5991  704 Catacomb$loc_name_separatorRL
+5248 -2752 1984 Catacomb
+3339 -2688 1984 Catacomb
+-866 -4949 1984 Catacomb$loc_name_separator$loc_name_ya
+-711 -5013  576 Catacomb$loc_name_separatorRL
+ 789 -3426 1984 Catacomb
+ 897 -6299 1984 Catacomb
+3805 -6887 1984 Catacomb
+-2456 -8196 3264 $loc_name_quad
+-1839 -5014 3264 $loc_name_quad
+-486 -4952 3264 $loc_name_quad
+   0 -7964 3264 $loc_name_quad
+7626 -6587 3264 Catacomb$loc_name_separatorATTIC
+9677 -3449 3264 Catacomb$loc_name_separatorATTIC
+10122 -2240 3264 Graveyard$loc_name_separatorWall
+11520 -402 3264 Graveyard$loc_name_separatorWall
+11481 1566 3264 Graveyard$loc_name_separatorWall
+11583 4213 3264 Graveyard$loc_name_separatorWall
+11564 5876 3264 Graveyard$loc_name_separatorWall
+ 625 10125  704 Maingate$loc_name_separatorRL
+-532 5303  704 Maingate$loc_name_separatorTunnel
+ 152 7891  704 Maingate$loc_name_separatorTunnel
+-3340 4484  704 Maingate$loc_name_separatorTunnel
+ 527 14679  704 LG
+3968 17536  704 LG$loc_name_separatorvillage
+-3456 17536  704 LG$loc_name_separatorvillage
+-3456 12544  704 LG$loc_name_separatorvillage
+3840 13882  704 LG$loc_name_separatorvillage
+ 552 12119  704 Maingate$loc_name_separatorRL
+2158 12976  704 LG$loc_name_separatorvillage
+-1307 12578  704 LG$loc_name_separatorvillage
+ 660 13476  704 LG$loc_name_separatorfence
+1431 14137  704 LG
+-382 14059  704 LG
+-361 13460  704 LG$loc_name_separatorfence
+1535 13526  704 LG$loc_name_separatorfence
+3629 11990  704 Maingate$loc_name_separatorRL
+3840 8960  832 Maingate$loc_name_separatorRL
+3465 12888  704 LG$loc_name_separatorvillage
+2001 11776  704 Maingate$loc_name_separatorRL
+4285 9856 2753 Maingate$loc_name_separator$loc_name_ya
+5141 11803 2368 Maingate$loc_name_separator$loc_name_ya
+7004 7976 2496 Guard-House
+-3623 8359 -320 Water$loc_name_separatorCells
+-1802 9076 -320 Water$loc_name_separatorCells
+-4383 6558 -320 Water$loc_name_separatorCells
+-4569 4433  704 Maingate$loc_name_separatorRamp
+-2429 4995 2496 Yard-SSG
+-4481 1878 1749 Maingate$loc_name_separatorRamp
+-2533 1607 2496 Schloss
+-2405 3636 2496 Schloss
+3840 -2064 3392 Back-Alley
+ -57 -2447 3264 Back-Alley
+-614 -3688 3264 $loc_name_quad
+-640 2915 2880 Schloss
+-661 5464 3520 Schloss
+-632 6520 4800 old-tower$loc_name_separator$loc_name_ya
+ 677 5173 4800 old-tower$loc_name_separator$loc_name_ya
+1664 6527 3648 Yard$loc_name_separator$loc_name_pent-roof
+ 128 4224 1984 Yard$loc_name_separatorMEGA
+-2358 4319 2496 Schloss
+2952 1050 1984 Yard
+5504  128 1472 Graveyard
+4864  512 1472 GL$loc_name_separatorStorage
+4610  163 3392 $loc_name_ra
+4224 -2026 3430 $loc_name_ra
+-3050 -2114 4800 Schloss$loc_name_separatorHigh
+-1374 -193 4800 Schloss$loc_name_separatorHigh
+ 948 -1408 4800 Schloss$loc_name_separatorHigh
+3456 -1408 4800 Schloss$loc_name_separatorHigh
+3027  430 4800 Schloss$loc_name_separatorHigh
+2802 -2116 3264 Back-Alley
+4341 1532 4885 Schloss$loc_name_separatorBig-Roof
+5634 2817 5942 Schloss$loc_name_separatorBig-Roof
+5075 5723 5485 Schloss$loc_name_separatorBig-Roof
+3676 6634 6231 Schloss$loc_name_separatorSmall-Roof
+ 963 6810 6350 Schloss$loc_name_separatorSmall-Roof
+-1018 6890 6403 Schloss$loc_name_separatorSmall-Roof
+-227 6332 6031 Schloss$loc_name_separatorSmall-Roof
+1112 6528 4800 old-tower$loc_name_separator$loc_name_ya
+-4316 -1188 2496 Schloss
+-3619 -3036 3264 $loc_name_quad
+-1024 -7296 1984 Catacomb$loc_name_separator$loc_name_ya
+-1024 -2688 1984 Catacomb$loc_name_separator$loc_name_ya
+6935 -8529 3264 Catacomb$loc_name_separatorattic-platform
+5058 -8155 3264 Catacomb$loc_name_separatorattic-platform
+2652 -8576 3264 $loc_name_quad
+7411 3414 5742 Graveyard$loc_name_separatorBig-Roof
+7306 5916 5828 Graveyard$loc_name_separatorBig-Roof
+8297 1440 5017 Graveyard$loc_name_separatorBig-Roof
+6328 -8354  784 Catacomb$loc_name_separatorCELLS-platform
+10714 -7042  594 lava
+11942 -4780  654 lava
+10752 -5696  704 Catacomb$loc_name_separatorSSG
+9664 -6783  704 Catacomb$loc_name_separatorSSG
+11391 -6087  540 lava
+6327 -2479 3693 camper
+6122 -2167 2582 Graveyard
+5525 13389  628 lava
+8538 11763  508 lava
+10596 9696  498 lava
+12372 6043  525 lava
+7808 10624 2496 Maingate$loc_name_separator$loc_name_ya
+6420  411 3150 graveyard
+9472 8960 2496 Graveyard$loc_name_separatorGuardhouse
+10594 7150 2496 Graveyard$loc_name_separatorGuardhouse
+ 565 14051  704 LG
+-584 -3152  576 Catacomb$loc_name_separatorRL
+-354 -6638  576 Catacomb$loc_name_separatorRL
+1277 -3077  576 Catacomb$loc_name_separatorRL
+1411 -6802  576 Catacomb$loc_name_separatorRL
+4809 -4947 1216 Catacomb
+3968 5261 3097 Yard$loc_name_separator$loc_name_pent-roof
+2878 5215 3067 Yard$loc_name_separator$loc_name_pent-roof
+3968 4558 2496 Yard
